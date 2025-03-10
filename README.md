@@ -23,7 +23,10 @@
 
 <ul>
 <li>📫Email: huyhuynh12.hh@gmail.com </li>
-<li>🌐Portfolio: [my portfolio here](https://portfolio.huyhuynh12.com)</li>
+<li>
+
+🌐Portfolio: [my portfolio here](https://portfolio.huyhuynh12.com)
+</li>
 </ul>
 
 </details>
