@@ -14,6 +14,22 @@
 </p>
 
 <details>
+
+<summary> 
+
+## Overview 
+
+</summary>
+
+<ul>
+<li>📫Email: huyhuynh12.hh@gmail.com </li>
+<li>🌐Portfolio: [my portfolio here](https://portfolio.huyhuynh12.com)</li>
+</ul>
+
+</details>
+
+<details>
+
 <summary> 
 
 ### Education & Certificates 
@@ -28,8 +44,6 @@
 
 [IBM Data Science Professional](https://www.coursera.org/account/accomplishments/professional-cert/O6GSTUXQ2NWM) 
 </li>
-<!-- <li></li> -->
-<!-- <li></li> -->
 </ul>
 
 </details>
