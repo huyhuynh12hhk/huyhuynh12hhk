@@ -2,21 +2,25 @@
 <center>
 <h3>Hi there, I'm Huynh Huy 👋</h3>
 <hr/>
-<h4><strong>I'm a innovative Full Stack Dev and a curious Data Scientist ✨</strong></h4>
+<h4><strong>I'm a innovative Full Stack Dev ✨</strong></h4>
 </center>
 
 ## My Tech Stack
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,docker,css,js,react,nextjs,py,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,docker,css,js,react,nextjs,py,aws,django,flutter&perline=5" />
   </a>
 </p>
 
 <details>
-<summary>For more info here 💬</summary>
+<summary> 
 
-### Education & Certificates
+### Education & Certificates 
+
+</summary>
+
+
 
 <ul>
 <li>Bachelor of Software Engineering by FPT University</li>
