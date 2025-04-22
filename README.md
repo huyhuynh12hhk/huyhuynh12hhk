@@ -1,21 +1,29 @@
 <div align="center">
 <h3>Hi there, I'm Huynh Huy 👋</h3>
-<div style="display:flex;height:50px; align-items:center;justify-content:center">
-<h4><strong>...a innovative Full Stack Dev</strong></h4> 
-  <img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=790b76110mk8r7j3raovpwqfdu6vbz6wvj2h35cvphhaywva&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:30px;margin-left:10px">
- </div>
+<div style="height:50px; align-items:center;justify-content:center">
+<h4><strong>I'm a curious and innovative Full Stack Dev</strong> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3h5eXJoeXZpdDUzeDJ6ZXdzbzZ2bXoyYjhueTJyN21zYnZ6aWl0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" style="height:30px"></h4></div>
+</div>
 
 ---
 
-<!-- <h3>
-REACH ME ON
-</h3>
-<span>
-  <a href=""></a>
-<span> -->
+`Goal:` My current goal is break all the line of technologies to gain a clear overview, then dive deeply into the philosophy and core concepts of architectures.
 
-<h2> My Technology Stack </h2>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA2YjBrc2hpYjFsMW01MXRqemJrb2N2YjV5dHAxeWg2N2djZ2VycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SOb4AcaDitenU4XKdC/giphy.gif" style="height:80px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVmdWx3NWYyeHBoeTV6NDJ1aDFuZmdrcjdxaWp3dmIzemM3NnY1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" style="height:80px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5tZXgwcjB5c2piYmR1c2I5MWFtNXhyZHE4cWJlNjYzYzJrOGQ4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26uf1EUQzKKGcIhJS/giphy.gif" style="height:80px">
+  <img src="https://media.giphy.com/media/ntjBjvfnakKJ2/giphy.gif?cid=ecf05e470ap824zaox18hml7h4l0wodrz3z88dwztt43t2d1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:80px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnA2YjBrc2hpYjFsMW01MXRqemJrb2N2YjV5dHAxeWg2N2djZ2VycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SOb4AcaDitenU4XKdC/giphy.gif" style="height:80px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVmdWx3NWYyeHBoeTV6NDJ1aDFuZmdrcjdxaWp3dmIzemM3NnY1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" style="height:80px">
+  ...
+  
 </div>
+
+
+
+---
+<h3> My Technology Stack </h3>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/103liSxCY1NpLO/giphy.gif?cid=790b7611phlf94xlmphvg1yaqmqid3x1zfxce67x4zz5bqp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:50px;">
