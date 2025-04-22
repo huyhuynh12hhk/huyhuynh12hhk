@@ -30,7 +30,7 @@
 
   <a href="">
   <div>
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,py,django&perline=8" />
+    <img src="https://skillicons.dev/icons?i=golang,java,spring,nodejs,py,django,cs,dotnet" />
   </div>
   <div>
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,flutter" />
