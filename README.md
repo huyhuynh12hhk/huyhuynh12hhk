@@ -78,7 +78,7 @@ I developed my **Dart** expertise through hands-on **Flutter** projects. After R
   <img src="https://skillicons.dev/icons?i=ruby,rails" />
 </div>
 
-I dipped my toes into **Ruby** through **Rails**, and it felt surprisingly familiar thanks to my previous work in other stacks. I can scaffold a basic Rails application by configure client credentials, wire up the database, write test and setup for deployment
+I getting start with **Ruby** through **Rails**, and it felt surprisingly familiar thanks to my previous work in other stacks. I can scaffold a basic Rails application by configure client credentials, wire up the database, write test and setup for deployment
 
 
 <h4>Additional Expertise</h4>
@@ -96,6 +96,8 @@ I dipped my toes into **Ruby** through **Rails**, and it felt surprisingly famil
 - **Security**: I have basic knowledge about this field from practiced days, **OAuth2** is one most concept I'm focusing now. For further plan, I will try some pentest for these personal projects.
 
 - **Performance & Scale**: Always exploring patterns for better concurrency, throughput, and horizontal scaling is what I pursue in my career path.
+
+- **Research and Troubleshoot**: With years of practical practice, I have ability to conduct independent research and resolving complex issues on my own. 
 
 
  ---
