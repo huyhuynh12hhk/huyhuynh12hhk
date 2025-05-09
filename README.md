@@ -12,6 +12,14 @@
 <div align="left">
   <img src="https://media.giphy.com/media/103liSxCY1NpLO/giphy.gif?cid=790b7611phlf94xlmphvg1yaqmqid3x1zfxce67x4zz5bqp1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="height:50px;">
 
+  <!--
+  
+  <br/>
+
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhuynh12hhk&layout=compact">
+  
+  -->
+
 <h4>By Programming Languages</h4>
 
 **Golang**
