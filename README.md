@@ -19,8 +19,15 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhuynh12hhk&layout=compact">
   
   -->
+  
+<details open>
+<summary>
+  
 
 <h4>By Programming Languages</h4>
+  
+</summary>
+
 
 **Golang**
 
@@ -30,7 +37,7 @@
 
 I jumped into Golang a bit later than most, but my background in other languages really helped me adapt fast like natively. I’m already using **generics**, spinning up **goroutines**, and adhered to the idiomatic **Go project layout**. Beside that, I also write **unit tests with mocking**, and have basic knowledge in **CI/CD pipelines and deployment strategies for Go services**. 
 
-Go’s straightforward syntax has inspired me to tackle interesting [DIY projects](https://github.com/huyhuynh12hhk/go-scratch) that put these programming concepts into practice.
+The simple of Go's syntax has inspired me to tackle interesting [from scratch project](https://github.com/huyhuynh12hhk/go-scratch) where I can reviview these fundamental ideas by practice.
 
 **Java**
 
@@ -38,9 +45,9 @@ Go’s straightforward syntax has inspired me to tackle interesting [DIY project
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </div>
 
-Java has a rich ecosystem due to its mature. Since a college student, I started with foudamental knowledge with **JDBC** and **JSP/servlets**. And after end up academic process, I’ve kept the momentum going with Java in **Spring framework**, I used to with **Maven** builds, **Lombok, JPA, Spring Cloud Gateway, and Spring Security**. I also write robust unit and integration tests (using **Mockito** and **Testcontainers**) and configure **CI/CD pipelines** for seamless deployments.
+Java has a rich ecosystem due to its mature. Since a college student, I started with foudamental knowledge with **JDBC** and **JSP/servlets**. And after end up academic process, I’ve kept the momentum going with Java in **Spring framework**, I used to with **Maven** builds, **Lombok, JPA, Spring Cloud Gateway, and Spring Security**. I also write robust unit and integration tests (using **Mockito** and **Testcontainers**) and configure **CI/CD pipelines** for seamless deployments. After practicing several projects, now I can build **SSO** server with **OAuth2** support by using Spring Authorization Server and related packages.
 
-Because of the mature of Java also Spring framework, in my free time, I got more hands-on in learning more about Java's architecture and implementing some of these concepts in [Java from scratch](https://github.com/huyhuynh12hhk/java-scratch). Currently, I’ve been deepening my understanding of **SSO** and **OAuth2** by exploring Spring Authorization Server as well as **Spring’s OAuth2 Client and Resource Server** modules. To understand more obviously, my next Java-Scracth project plan will be the implentation of OAuth2-related problem.
+Because of the mature of Java also Spring framework, in my free time, I got more hands-on in learning more about Java's architecture and implementing some of these concepts in [Java from scratch](https://github.com/huyhuynh12hhk/java-scratch).
 
 **C#**
 
@@ -48,9 +55,7 @@ Because of the mature of Java also Spring framework, in my free time, I got more
   <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 </div>
 
-Although I started with Java, **C#/.NET laid the foundation for my growth**. Throughout school, I built numerous web apps using **Razor, ASP .NET Core MVC, and Web API, and even explored Blazor for SPA** development. When learning .NET, I picked up **clean architecture (DDD), versioning strategies, rate limiting and throttling, API gateways, gRPC, integrated with RabbitMQ messaging and various design patterns** along the way. Also, I’m proficient with **Entity Framework Core** (I had tried make a simple one from scratch) and **Identity Framework** (with some customize but still use the RBAC built-in). Up until now, **writing unit tests and configuring CI/CD pipelines in .NET** is part of my standard workflow.
-
-Although I experimented with many .NET projects during my academic years, I’ve since come to view Java and Go as the cornerstone languages for my career growth. Even so, I still enjoy maintaining and advancing .NET programming in my free time projects.
+Although I started with Java, **C#/.NET laid the foundation for my growth**. Throughout school, I built numerous web apps using **Razor, ASP .NET Core MVC, and Web API, and even explored Blazor for SPA** development. When learning .NET, It's the some first times I have have come across these concepts: **clean architecture (DDD), versioning, rate limiting and throttling, API gateways, gRPC, integrated with RabbitMQ messaging and various design patterns**. And, I’m proficient with **Entity Framework Core** (I had tried make a simple one from scratch) and **Identity Framework** (with some customize but still use the RBAC built-in). Up until now, **writing unit tests and configuring CI/CD pipelines in .NET** is part of my standard workflow.
 
 **Python**
 
@@ -58,9 +63,9 @@ Although I experimented with many .NET projects during my academic years, I’ve
   <img src="https://skillicons.dev/icons?i=py,django,fastapi" />
 </div>
 
-I start **Python** as a part of my **Data Science** journey. I've played around with **Pandas for data wrangling, NumPy for computations, Matplotlib for charts, and Beautiful Soup for web scraping**. I even spun up a small **FastAPI** service to learn Python web APIs, then tackled a few **Django** apps to round out my skillset. Like these other languages, I also can write **simple test within setup CI/CD pipeline**. 
+I start **Python** as a part of my **Data Science** journey. I've played around with **Pandas for data wrangling, NumPy for computations, Matplotlib for charts, and Beautiful Soup for web scraping**. I even spun up a vast array of small **FastAPI** draft projects to learn Python web APIs, then tackled a few **Django** apps to round out my skillset. Like these other languages, I also can write **simple test within setup CI/CD pipeline**. 
 
-After I finish locking down my Java Security problems, I can’t wait to jump back into Python for continue AI and machine-learning path.
+ Next, I will continue to pursue AI/ML path.
 
 **Javascript**
 
@@ -70,7 +75,7 @@ After I finish locking down my Java Security problems, I can’t wait to jump ba
 
 Although my passion lies in backend development, I’ve broadened my skill set by mastering client-side technologies. **ReactJS** is of my first client side frameworks. I even got to try **NextJS** in a project at university. I have basic knowledge of how to structure a React project, **React Router Dom** for routing, **Redux or local storage** for store user current state, and fetch data with **Axios**. Also, my React application work well on **AWS CloudFront**. 
 
-On the JavaScript backend, I can build RESTful services with **NodeJS/Express**, integrate **Kafka** for messaging, use **MongoDB** for data persistence, and containerize **deployments with Docker**.
+On the JavaScript backend, I can build RESTful services with **NodeJS/Express**, integrate **Kafka** for messaging, use **MongoDB** for data persistence, and **containerize deployments with Docker**.
 
 **Dart**
 
@@ -88,28 +93,61 @@ I developed my **Dart** expertise through hands-on **Flutter** projects. After R
 
 I getting start with **Ruby** through **Rails**, and it felt surprisingly familiar thanks to my previous work in other stacks. I can scaffold a basic Rails application by configure client credentials, wire up the database, write test and setup for deployment
 
+</details>
+  
 
-<h4>Additional Expertise</h4>
-
-<div>
+<details open>
+  <summary>
+  
+  <h4>Tools and Platforms</h4>
+  <div>
   <img src="https://skillicons.dev/icons?i=docker,aws,mongo,mysql,postgres,github" />
 </div>
+  
+</summary>
+
+
 
 - **Storage**: I have fundametal both SQL and NoSQL database: **MS SQL, MySQL, PostgreSQL, MongoDB** with their management tools. And Redis and RedisInsight when I need fast caches.
 
-- **Cloud**: I have exprience to deal with **AWS EC2, S3, CloudFront**.
+- **OS**: I can use Linux and Windows for development. I had a chance to setup and use both Raspbian and Ubuntu in Raspberry Pi (4GB RAM). This was an incredibly interesting experience for me. It's even inspired me to plan a fun idea around cluster development with IoT devices in the near future.
 
-- **Tools**: I prefer **GitHub** for source control, and **GitHub Action** automating delivery. **Docker Compose** is most tool I use for infrastructure setup on each project. I have experience mocking up UIs in **Figma** and sketch system diagrams with **Lucidchart or Draw.io**.
+- **Cloud**: I've been practicing with **AWS EC2, S3, CloudFront** for about a year to get some basics. My next attempt is with EKS for cluster things but unlimit platform (AWS, GCP, Azure). 
 
-- **Security**: I have basic knowledge about this field from practiced days, **OAuth2** is one most concept I'm focusing now. For further plan, I will try some pentest for these personal projects.
+- **Tools**: I prefer **GitHub** for source control, I can still use **GitLab** from practices in school. **GitHub Action** is the tools I use to setup CI/CD pipeline now. **Docker Compose** is most tool I use for infrastructure setup on each project. I have experience mocking up UIs in **Figma** and sketch system diagrams with **Lucidchart or Draw.io**.
+
+</details>
+
+<details>
+  <summary>
+  
+  <h4>Other tech stacks</h4>
+    
+  </summary>
+
+- **Security**: I can implement some flow of **OAuth2** such as: Authorization Code (PKCE), Client Credential, Resource Owner Password and Implicit. For futher more with security path, I will try some security test in my free time projects later.
 
 - **Performance & Scale**: Always exploring patterns for better concurrency, throughput, and horizontal scaling is what I pursue in my career path.
 
 - **Research and Troubleshoot**: With years of practical practice, I have ability to conduct independent research and resolving complex issues on my own. 
 
+</details>
 
+<details>
+  <summary>
+  
+  <h4>Outside the tech but still in the stack 🌱</h4>
+    
+  </summary>
+
+  - I‘ve been in a state of ambiguous and wasted days for a long time in the past to know the preciousness of time and knowledge.
+  - I've often felt like I don't have a natural talent for anything, but practice gain me confidence to everything. I've always believed that even if my second attempt at something doesn't succeed, I still have 98 times more (before picking new one), to find the right solution. Fortunately, for challenges I now consider medium to hard, I've found I can typically pinpoint the correct answer after 8 to 18 draft projects.
+  - I’ve ability to patiently troubleshoot new problems. It's a direct result of repeatedly immersing myself in new concepts. While there were certainly moments of frustration or even despair early on, I've gradually built up strong emotional resilience that allows me to effectively manage those negative effects of emotional. Now, I can comfortably spend countless hours, day after day, to thoroughly understand a concept until I arrive at an acceptable solution.
+  - With my loudly mind and high self-awareness are constant sources of inspiration, providing me endless contents to tackle new problems and continuously enhance my capabilities. This internal drive ensures my learning journey never stops.
+
+
+</details>
  ---
-
 
 
 <div align="center">
